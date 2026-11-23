@@ -48,7 +48,7 @@ The single process caps how many videos run at once, and the JSON store only wor
 | Media | FFmpeg, Demucs, generative video model via API |
 | Infra | nginx, systemd slices, Let's Encrypt, Ubuntu VPS |
 
-Solo project, built with AI-assisted development (Claude Code).
+Solo project.
 
 Source code is private. Happy to walk through it in a call.
 
